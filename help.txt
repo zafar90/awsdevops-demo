@@ -1,1 +1,2 @@
 This file is created to demonstrate git ignore
+Added new line of code from Github UI
