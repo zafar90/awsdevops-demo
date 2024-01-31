@@ -1,1 +1,2 @@
 Created this text file to demonstrate branching strategy
+Demo GIT SCM Polling
